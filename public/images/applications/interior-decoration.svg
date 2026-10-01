@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="appGrad_#D97706" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D97706" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#appGrad_#D97706)" />
+  <g transform="translate(50, 200)">
+    <rect x="0" y="0" width="500" height="140" rx="12" fill="rgba(0,0,0,0.4)" stroke="rgba(255,255,255,0.15)"/>
+    <text x="30" y="50" font-family="'Inter', sans-serif" font-size="24" font-weight="800" fill="#FFFFFF">Interior Decoration</text>
+    <text x="30" y="85" font-family="'Inter', sans-serif" font-size="14" font-weight="500" fill="#93C5FD">Commercial &amp; Industrial Building Application</text>
+    <text x="30" y="115" font-family="'Inter', sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#F59E0B">HUMING INTERNATIONAL LIMITED</text>
+  </g>
+</svg>
